@@ -43,7 +43,9 @@ App = {
     }
     // If no injected web3 instance is detected, fall back to Ganache
     else {
+
       App.web3Provider = new Web3.providers.HttpProvider('http://localhost:6969');
+
     }
     web3 = new Web3(App.web3Provider);
 
@@ -82,7 +84,9 @@ App = {
     }).then(function(adopters) {
       for (i = 0; i < adopters.length; i++) {
         if (adopters[i] !== '0x0000000000000000000000000000000000000000') {
+
           $('.panel-pet').eq(i).find('button').text('Success').attr('disabled',true);
+
         }
       }
     }).catch(function(err) {
