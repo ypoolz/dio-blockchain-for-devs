@@ -1,4 +1,4 @@
-## Gabe's Pet shop <img src="https://github.com/ypoolz/Rocketflix-desafio/blob/main/assets/favico/icon.png?raw=true" style="max-width: 15%;" />
+## Gabe's Pet shop <img src="https://github.com/ypoolz/dio-blockchain-for-devs/blob/main/src/images/Gabe_s-Pet-Shop-27-July-2022-_1_.gif" style="max-width: 15%;" />
 
 
 
