@@ -1,3 +1,11 @@
+## Gabe's Pet shop <img src="https://github.com/ypoolz/Rocketflix-desafio/blob/main/assets/favico/icon.png?raw=true" style="max-width: 15%;" />
+
+
+
+
+
+
+
 ## Sobre o projeto :computer:
 
 Criar um token de rastreabilidade, primeiro smart contract e integrando metamask com o site. Desenvolvido junto a live da [Digital Innovation One](https://www.youtube.com/watch?v=6yFeUiceybw&t=4164s).
